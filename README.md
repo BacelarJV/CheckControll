@@ -8,7 +8,7 @@ O CheckControll tem como objetivo principal auxiliar o usuário no acompanhament
 
 ### ✅ Funcionalidades Básicas
 
-- [x] Cadastro e login de usuários com autenticação segura  
+- [ ] Cadastro e login de usuários com autenticação segura  
 - [ ] Exibição do saldo atual  
 - [ ] Registro de despesas mensais (ex.: contas fixas como água e luz)  
 - [ ] Registro de gastos de crédito (ex.: compras esporádicas como delivery)  
