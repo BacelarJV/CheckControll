@@ -26,7 +26,7 @@ O CheckControll tem como objetivo principal auxiliar o usuário no acompanhament
 
 Os protótipos das telas foram desenvolvidos no Figma com um layout simplificado, limpo e funcional, incluindo interações entre as telas para simulação da navegação.
 
-🔗 [Clique aqui para visualizar os protótipos no Figma](https://www.figma.com/link-do-prototipo-aqui)
+ [Clique aqui para visualizar os protótipos no Figma](https://www.figma.com/link-do-prototipo-aqui)
 
 ---
 
@@ -34,9 +34,9 @@ Os protótipos das telas foram desenvolvidos no Figma com um layout simplificado
 
 A modelagem do banco de dados foi projetada para armazenar de forma eficiente os dados financeiros do usuário.
 
-### 🧩 Diagrama Entidade-Relacionamento
+###  Diagrama Entidade-Relacionamento
 
-📷 ![Diagrama ER](https://link-da-imagem-ou-do-google-drive-aqui)
+ ![Diagrama](file:///home/bacelar/%C3%81rea%20de%20trabalho/diagrama_er_checkcontroll.png)
 
 ### Estrutura das Tabelas
 
@@ -63,14 +63,14 @@ A modelagem do banco de dados foi projetada para armazenar de forma eficiente os
 - [x] Criar telas de login, dashboard e navegação  
 - [x] Estilização básica  
 
-### 🚀 Sprint 2 — até Checkpoint 3  
+###  Sprint 2 — até Checkpoint 3  
 **Objetivo:** Funcionalidades principais e banco de dados  
 
 - [ ] Implementar banco de dados local e/ou remoto (Supabase)  
 - [ ] Habilitar cadastro, login e registro de transações  
 - [ ] Criar visualização do saldo e gastos  
 
-### ✅ Sprint 3 — até Checkpoint 4  
+###  Sprint 3 — até Checkpoint 4  
 **Objetivo:** Finalizar e publicar o app  
 
 - [ ] Refatorar e testar todas as funcionalidades  
