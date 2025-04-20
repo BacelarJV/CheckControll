@@ -6,7 +6,7 @@ O **CheckControll** é um aplicativo de controle financeiro pessoal desenvolvido
 
 O CheckControll tem como objetivo principal auxiliar o usuário no acompanhamento de sua vida financeira, permitindo o registro, visualização e análise de gastos e ganhos.
 
-### ✅ Funcionalidades Básicas
+### Funcionalidades Básicas
 
 - [ ] Cadastro e login de usuários com autenticação segura  
 - [ ] Exibição do saldo atual  
@@ -14,7 +14,7 @@ O CheckControll tem como objetivo principal auxiliar o usuário no acompanhament
 - [ ] Registro de gastos de crédito (ex.: compras esporádicas como delivery)  
 - [ ] Visualização e edição de transações  
 
-### 🛠️ Funcionalidades Adicionais (futuras)
+ Funcionalidades Adicionais (futuras)
 
 - [ ] Relatórios de gastos por categoria  
 - [ ] Gráficos de análise financeira  
@@ -36,7 +36,7 @@ A modelagem do banco de dados foi projetada para armazenar de forma eficiente os
 
 ###  Diagrama Entidade-Relacionamento
 
- ![Diagrama](file:///home/bacelar/%C3%81rea%20de%20trabalho/diagrama_er_checkcontroll.png)
+ ![Diagrama](https://drive.google.com/file/d/1Mk-2uRMCTZpyHQpeIMOTZ0TygR6Kudkg/view?usp=sharing)
 
 ### Estrutura das Tabelas
 
@@ -56,12 +56,12 @@ A modelagem do banco de dados foi projetada para armazenar de forma eficiente os
 
 ## Planejamento de Sprints
 
-### 🏁 Sprint 1 — até Checkpoint 2  
+###  Sprint 1 — até Checkpoint 2  
 **Objetivo:** Implementar o esqueleto do app e navegação básica  
 
-- [x] Criar estrutura inicial do projeto  
-- [x] Criar telas de login, dashboard e navegação  
-- [x] Estilização básica  
+- [ ] Criar estrutura inicial do projeto  
+- [ ] Criar telas de login, dashboard e navegação  
+- [ ] Estilização básica  
 
 ###  Sprint 2 — até Checkpoint 3  
 **Objetivo:** Funcionalidades principais e banco de dados  
