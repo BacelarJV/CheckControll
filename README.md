@@ -36,8 +36,6 @@ A modelagem do banco de dados foi projetada para armazenar de forma eficiente os
 
  [Diagrma](https://drive.google.com/file/d/1I73mhr_iGKOLQrDgm9EqLU0REFDAoEvv/view?usp=sharing)
 
-### Estrutura das Tabelas
-
 
 ## Planejamento de Sprints
 
