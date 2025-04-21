@@ -35,7 +35,7 @@ Os protótipos das telas foram desenvolvidos no Figma com um layout simplificado
 
 A modelagem do banco de dados foi projetada para armazenar de forma eficiente os dados financeiros do usuário.
 
- [Diagrma](https://www.figma.com/design/znDL8Yh8zt1lTZ8h8npwlO/Untitled?node-id=0-1&t=WTlSB0BuR6QSVpDz-1)
+ [Diagrma](https://drive.google.com/file/d/1I73mhr_iGKOLQrDgm9EqLU0REFDAoEvv/view?usp=sharing)
 
 ### Estrutura das Tabelas
 
