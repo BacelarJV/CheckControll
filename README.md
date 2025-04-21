@@ -9,10 +9,10 @@ O CheckControll tem como objetivo principal auxiliar o usuário no acompanhament
 ### Funcionalidades Básicas
 
 - [ ] Cadastro e login de usuários com autenticação segura  
-- [ ] Exibição do saldo atual  
-- [ ] Registro de despesas mensais (ex.: contas fixas como água e luz)  
-- [ ] Registro de gastos de crédito (ex.: compras esporádicas como delivery)  
-- [ ] Visualização e edição de transações  
+- [ ] Registro de despesas mensais (ex: contas fixas como água e luz)  
+- [ ] Registro de gastos de crédito (ex: compras esporádicas como delivery)  
+- [ ] Visualização de gastos de maneira distribuida (ex: fixas,mensais,investimentos e emergencias)
+- [ ] Relatórios do mês gerando gastos uma visão geral do gasto total do mês em questão  
 
  Funcionalidades Adicionais (futuras)
 
