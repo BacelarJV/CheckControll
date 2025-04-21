@@ -1,4 +1,4 @@
-chat pode dar uma organizada no meu readme sem adicionar emoji # CheckControll
+## CheckCrontroll
 
 O **CheckControll** é um aplicativo de controle financeiro pessoal desenvolvido para facilitar a gestão de despesas e ganhos do usuário de forma prática e intuitiva. Este projeto foi criado como parte da disciplina de Desenvolvimento de Projetos para Dispositivos Móveis.
 
@@ -69,4 +69,4 @@ A modelagem do banco de dados foi projetada para armazenar de forma eficiente os
 - **Design:** Figma  
 - **Gerenciador de Pacotes:** Yarn  
 
----
+
