@@ -27,7 +27,7 @@ O CheckControll tem como objetivo principal auxiliar o usuário no acompanhament
 
 Os protótipos das telas foram desenvolvidos no Figma com um layout simplificado, limpo e funcional, incluindo interações entre as telas para simulação da navegação.
 
- [Clique aqui para visualizar os protótipos no Figma](https://www.figma.com/link-do-prototipo-aqui)
+ [Clique aqui para visualizar os protótipos no Figma](https://www.figma.com/design/znDL8Yh8zt1lTZ8h8npwlO/Untitled?node-id=0-1&t=WTlSB0BuR6QSVpDz-1)
 
 ---
 
@@ -37,23 +37,10 @@ A modelagem do banco de dados foi projetada para armazenar de forma eficiente os
 
 ###  Diagrama Entidade-Relacionamento
 
- ![Diagrama](https://drive.google.com/file/d/1Mk-2uRMCTZpyHQpeIMOTZ0TygR6Kudkg/view?usp=sharing)
+ ![Diagrama](https://drive.google.com/file/d/1I73mhr_iGKOLQrDgm9EqLU0REFDAoEvv/view?usp=sharing)
 
 ### Estrutura das Tabelas
 
-- **Usuario**  
-  `id`, `primeiro_nome`, `ultimo_nome`, `apelido`, `senha`  
-
-- **Gastos_Mensais**  
-  `id`, `usuario_id`, `nome`, `valor`, `data_hora_gasto`  
-
-- **Gastos_Credito**  
-  `id`, `usuario_id`, `nome`, `valor`, `data_hora_gasto`  
-
-- **Ganhos_Mensais**  
-  `id`, `usuario_id`, `nome`, `valor`, `data_hora_ganho`  
-
----
 
 ## Planejamento de Sprints
 
@@ -88,18 +75,3 @@ A modelagem do banco de dados foi projetada para armazenar de forma eficiente os
 - **Gerenciador de Pacotes:** Yarn  
 
 ---
-
-## Executando o Projeto em Ambiente de Desenvolvimento
-
-```bash
-# Clone o repositório
-git clone https://github.com/seu-usuario/CheckControll.git
-
-# Acesse a pasta
-cd CheckControll
-
-# Instale as dependências
-yarn
-
-# (Opcional) Instale o TypeScript, se necessário
-yarn add typescript@5.3.3 --dev
