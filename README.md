@@ -23,7 +23,6 @@ O CheckControll tem como objetivo principal auxiliar o usuário no acompanhament
 ---
 
 ## Protótipos de Tela
-![Uploading diagrama_er_checkcontroll.png…]()
 
 Os protótipos das telas foram desenvolvidos no Figma com um layout simplificado, limpo e funcional, incluindo interações entre as telas para simulação da navegação.
 
